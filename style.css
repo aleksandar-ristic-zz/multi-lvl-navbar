@@ -43,6 +43,7 @@ a {
   font-size: 100%;
   text-decoration: none;
   font-weight: 500;
+  color: aliceblue;
 }
 a:visited {
   color: aliceblue;
@@ -85,7 +86,6 @@ a:visited {
 }
 .menu-item {
   position: relative;
-  width: 4.545rem;
   padding: .5rem 1rem;
   outline: none;
   background-color: #333;
